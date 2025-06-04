@@ -9,7 +9,7 @@ Trabajar con ramas
 
 Objetivo
 Crearemos una web para el instituto [IES Pablo Picasso](https://fpiespablopicasso.es/)
-![Logo del instituto](https://Miguelae9-ExamenGIT_Miguel_Angel_Perez_Garcia/assets/images/Logo_IES_Pablo_Picasso.png)
+![Logo del instituto](https://Miguelae9-ExamenGIT_Miguel_Angel_Perez_Garcia.com/assets/images/Logo_IES_Pablo_Picasso.png)
 Ejemplos
 Para crear un repositorio tendré que utilizar el comando
 git init
