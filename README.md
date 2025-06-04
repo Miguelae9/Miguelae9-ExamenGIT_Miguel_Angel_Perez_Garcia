@@ -8,7 +8,7 @@ Realizar commits
 Trabajar con ramas
 
 Objetivo
-Crearemos una web para el instituto IES Pablo Picasso
+Crearemos una web para el instituto [IES Pablo Picasso](https://fpiespablopicasso.es/)
 
 Ejemplos
 Para crear un repositorio tendré que utilizar el comando
